@@ -1,0 +1,16 @@
+﻿  randtable.c
+  huffman.c
+  decompress.c
+  crctable.c
+  compress.c
+d:\visualstudio\bsdiff_update\bsdiffupdate\bsdiffupdate\compress.c(205): warning C4244: “=”: 从“__int64”转换到“Int32”，可能丢失数据
+  bzlib.c
+d:\visualstudio\bsdiff_update\bsdiffupdate\bsdiffupdate\bzlib.c(996): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+d:\visualstudio\bsdiff_update\bsdiffupdate\bsdiffupdate\bzlib.c(1055): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+d:\visualstudio\bsdiff_update\bsdiffupdate\bsdiffupdate\bzlib.c(1190): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+  blocksort.c
+  正在生成代码...
+  bsdiff.cpp
+    正在创建库 D:\VisualStudio\bsdiff_update\BsdiffUpdate\x64\Debug\BsdiffUpdate.lib 和对象 D:\VisualStudio\bsdiff_update\BsdiffUpdate\x64\Debug\BsdiffUpdate.exp
+  BsdiffUpdate.vcxproj -> D:\VisualStudio\bsdiff_update\BsdiffUpdate\x64\Debug\BsdiffUpdate.dll
+  BsdiffUpdate.vcxproj -> D:\VisualStudio\bsdiff_update\BsdiffUpdate\x64\Debug\BsdiffUpdate.pdb (Full PDB)
